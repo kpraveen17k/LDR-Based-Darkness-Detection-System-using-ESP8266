@@ -2,7 +2,7 @@
 
 # LDR Based Darkness Detection using ESP8266 with LED and Buzzer
 
-## 🚀 Applications
+Applications
 - Automatic darkness detection systems
 - Smart room and home alert systems
 - Night-time warning systems
@@ -12,7 +12,7 @@
 
 ---
 
-## 💡 Uses
+ Uses
 - Detects surrounding light intensity
 - Activates LED and buzzer in dark conditions
 - Useful for automatic alert mechanisms
@@ -21,7 +21,7 @@
 
 ---
 
-## 🔧 Advanced Scope / Future Improvements
+ Advanced Scope / Future Improvements
 - Add a **relay module** to control a real bulb or lamp
 - Integrate with **Wi-Fi** for IoT monitoring
 - Add **OLED/TFT display** for live sensor values
