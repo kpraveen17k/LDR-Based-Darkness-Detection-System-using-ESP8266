@@ -1,9 +1,8 @@
 ESP8266 (NodeMCU)        Components
 -----------------------------------------
-3.3V        --------->   LDR one pin
-A0          --------->   LDR second pin
-A0          --------->   10k resistor one side
-GND         --------->   10k resistor second side
+3.3V        --------->   LDR vcc
+A0          --------->   LDR DO
+GND         --------->   10k GND 
 
 D2          --------->   LED long leg (+)
 GND         --------->   LED short leg (-) through 220Ω resistor
